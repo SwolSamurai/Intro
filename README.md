@@ -1,3 +1,1 @@
-**This is a project**
-
-This is a project... that's all... hello.
+**This is a project to make a RC lego car**
